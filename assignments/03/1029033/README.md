@@ -112,4 +112,4 @@ Kode di atas berfungsi untuk
 + Menampilkan setiap angka dari NIM dalam bentuk kotak kosong sejumlah angka tersebut
 + Menampilkan setiap angka dari NIM dalam bentuk kotak penuh sejumlah angka tersebut
 
-Com[iled by OneCompiler (https://onecompiler.com/python/3xqyc4cxr)
+Compiled by OneCompiler (https://onecompiler.com/python/3xqyc4cxr)
